@@ -1,8 +1,8 @@
 # CODSOFT
 
-### Codsoft Internship - Level 1 Completion
+### Codsoft Internship 
 
-I successfully completed the first level of tasks for my internship at Codsoft, which included the following projects:
+I have successfully completed the level-1 tasks for my internship at Codsoft, which included the following projects:
 
 1. **Creation of Own Portfolio using HTML and CSS**
    - Designed and developed a personal portfolio website from scratch using HTML for structure and CSS for styling.
